@@ -1,0 +1,10 @@
+{
+  "name": "hello-world",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "main": "flatten.js",
+  "author": "",
+  "license": "ISC"
+}
